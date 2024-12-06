@@ -11,3 +11,6 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
   https://www.myminifactory.com/object/3d-print-venus-aphrodite-is-the-goddess-of-love-she-was-depicted-in-the-nude-or-in-various-stages-of-nudity-and-painted-the-figure-is-executed-in-the-hellenistic-style-and-famed-for-its-sensuous-appearance-it-supposedly-lost-its-arms-in-a-struggle-arising-b-25162     
   https://www.myminifactory.com/object/3d-print-eros-with-a-dolphin-94133    
 
+  # Progres Saptamana 10  
+  
+
