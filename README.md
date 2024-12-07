@@ -11,7 +11,9 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
   https://www.myminifactory.com/object/3d-print-venus-aphrodite-is-the-goddess-of-love-she-was-depicted-in-the-nude-or-in-various-stages-of-nudity-and-painted-the-figure-is-executed-in-the-hellenistic-style-and-famed-for-its-sensuous-appearance-it-supposedly-lost-its-arms-in-a-struggle-arising-b-25162     
   https://www.myminifactory.com/object/3d-print-eros-with-a-dolphin-94133    
 
-  # Progres Saptamana 10  
-  
-
-https://docs.google.com/document/d/1uLLwwbFDpeLSYEj431IaBMYX45L4IVSkwX0AhcgZ2hs/edit?usp=sharing
+  # Progres Saptamana 10 : https://youtu.be/Jg3SoUu3ROU  
+  - Am transferat proiectul din Blender in Unity :
+      - Am adaugat posibilitatea de a testa jocul si de pe laptop (se activeaza PlayerController), pe langa cu VR headset (VR Rig), verificarea se face printr-un script atasat de obiectul GameManager  
+      - Sistemul locomotoriu => jucatorul se poate misca si plimba prin incaperi cu ajutorul unui script PlayerMovements  
+      - Am adaugat colliders pentru pereti si statui/alte obiecte  
+  - Model puzzle-uri si intrebari/ghicitori : https://docs.google.com/document/d/1uLLwwbFDpeLSYEj431IaBMYX45L4IVSkwX0AhcgZ2hs/edit?usp=sharing  
