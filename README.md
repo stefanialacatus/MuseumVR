@@ -14,6 +14,6 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
   # Progres Saptamana 10 : https://youtu.be/Jg3SoUu3ROU  
   - Am transferat proiectul din Blender in Unity :
       - Am adaugat posibilitatea de a testa jocul si de pe laptop (se activeaza PlayerController), pe langa cu VR headset (VR Rig), verificarea se face printr-un script atasat de obiectul GameManager  
-      - Sistemul locomotoriu => jucatorul se poate misca si plimba prin incaperi cu ajutorul unui script PlayerMovements  
+      - Sistemul de locomotie => jucatorul se poate misca si plimba prin incaperi cu ajutorul unui script PlayerMovements  
       - Am adaugat colliders pentru pereti si statui/alte obiecte  
   - Model puzzle-uri si intrebari/ghicitori :https://www.figma.com/design/ITDKPUTQ5JUUdbSCS0Ie7V/Untitled?node-id=0-1&t=o2e44xKUNVaCDy2c-1
