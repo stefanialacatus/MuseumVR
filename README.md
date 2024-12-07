@@ -14,3 +14,4 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
   # Progres Saptamana 10  
   
 
+https://docs.google.com/document/d/1uLLwwbFDpeLSYEj431IaBMYX45L4IVSkwX0AhcgZ2hs/edit?usp=sharing
