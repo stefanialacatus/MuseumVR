@@ -17,3 +17,8 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
       - Sistemul de locomotie => jucatorul se poate misca si plimba prin incaperi cu ajutorul unui script PlayerMovements  
       - Am adaugat colliders pentru pereti si statui/alte obiecte  
   - Model puzzle-uri si intrebari/ghicitori :https://www.figma.com/design/ITDKPUTQ5JUUdbSCS0Ie7V/Untitled?node-id=0-1&t=o2e44xKUNVaCDy2c-1
+  # Progres Săptămâna 11 :
+  - Am adăugat funcționalitățile necesare pentru vizualizarea unui singur exponat la început iar afișarea celorlalte pe rând după rezolvarea unui puzzle sau ghicitoare.
+  - Am agăugat picturile în muzeu
+  - Am modelat partea de puzzle și ghicitori printr-un pergament ce conține informațiile necesare
+  - Am adăugat funcționalitățile pentru asistentul virtual împreună cu afișarea informațiilor în dreptul fiecărui exponat.
