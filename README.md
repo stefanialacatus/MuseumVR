@@ -23,8 +23,8 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
   - Am modelat partea de puzzle și ghicitori printr-un pergament ce conține informațiile necesare
   - Am adăugat funcționalitățile pentru asistentul virtual împreună cu afișarea informațiilor în dreptul fiecărui exponat.  
 
-# Progres Saptamana 12:  
-- Am modelat quizz-urile pentru fiecare exponat in Blender si le-am exportat in Unity  
-- Am asezat quizz-ul specific unui exponat in fata sa si l-am conectat de un collider si un script pentru a aparea cand te apropi de locul acelui exponat, doar daca acesta este ascuns (inactiv), adica trebuie "descoperit" prin rezolvarea quizz-ului
+# Progres Saptamana 12 :  
+- Am modelat quizz-urile pentru fiecare exponat in Blender si le-am importat in Unity  
+- Am asezat quizz-ul specific unui exponat in fata sa si l-am conectat de un collider si un script pentru a aparea cand te apropii de locul acelui exponat, doar daca acesta este ascuns (inactiv), adica trebuie "descoperit" prin rezolvarea quizz-ului
 - Am adaugat vocea Asistentului Virtual : introducere in joc la intrare si informatii despre fiecare exponat, pornite cu ajutorul unui script cand se intra in contact cu collider-ul specific
 - Functia de "ascundere" a tuturor exponatelor mai putin unul in fiecare camera (statui si picturi)  
