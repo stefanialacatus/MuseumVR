@@ -31,10 +31,10 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
 
 # Progres Saptamana 13   
 Glow pentru Exponate Deblocate
-Am implementat un efect vizual de strălucire pentru exponatele deblocate, utilizând materiale cu Emission și post-procesare pentru un impact estetic sporit.
+-Am implementat un efect vizual de strălucire pentru exponatele deblocate, utilizând materiale cu Emission și post-procesare pentru un impact estetic sporit.
 
 Eliminarea Hinturilor de pe Pergamente
-Hinturile au fost eliminate pentru a crește gradul de explorare și a încuraja o experiență mai interactivă.
+-Hinturile au fost eliminate pentru a crește gradul de explorare și a încuraja o experiență mai interactivă.
 
 Scripturi pentru Textbox și Buton
-Am adăugat scripturi care gestionează validarea textelor de raspuns cand butonul este apasat.
+-Am adăugat scripturi care gestionează validarea textelor de raspuns cand butonul este apasat.
