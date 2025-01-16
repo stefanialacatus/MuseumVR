@@ -29,12 +29,10 @@ Tema 5 - Main Modules : https://docs.google.com/document/d/1RX53seIkyrbv4tn8caDv
 - Am adaugat vocea Asistentului Virtual : introducere in joc la intrare si informatii despre fiecare exponat, pornite cu ajutorul unui script cand se intra in contact cu collider-ul specific
 - Functia de "ascundere" a tuturor exponatelor mai putin unul in fiecare camera (statui si picturi)  
 
-# Progres Saptamana 13   
-Glow pentru Exponate Deblocate
--Am implementat un efect vizual de strălucire pentru exponatele deblocate, utilizând materiale cu Emission și post-procesare pentru un impact estetic sporit.
-
-Eliminarea Hinturilor de pe Pergamente
--Hinturile au fost eliminate pentru a crește gradul de explorare și a încuraja o experiență mai interactivă.
-
-Scripturi pentru Textbox și Buton
--Am adăugat scripturi care gestionează validarea textelor de raspuns cand butonul este apasat.
+# Progres Saptamana 13+14   
+- Am schimbat din input text in butoane
+- Am adaugat ferestre
+- Hinturile au fost eliminate pentru a crește gradul de explorare și a încuraja o experiență mai interactivă.
+- Am adăugat scripturi care gestionează validarea textelor de raspuns cand butonul este apasat.
+- Am adaugat scripturi necesare pentru firul corect in care sa apara exponatele
+  
